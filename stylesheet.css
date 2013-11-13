@@ -3,3 +3,36 @@ body {
 	font-size: 40px;
 
 }
+
+
+
+.wrapper {
+
+border: 1px solid black; 
+margin: 0 auto;
+width: 500px; 
+padding: 30px;
+max-width: 90%;
+
+}
+
+.wrapper img {
+
+	width: 500px;
+}
+
+.julianne {
+
+	font-family: Georgia;
+	font-size: 10px;
+	font-weight: bold;
+	line-height: 14px;
+}
+
+.andy {
+
+	font-family: Courier;
+	font-size: 40px;
+	font-style: italic;
+
+}
