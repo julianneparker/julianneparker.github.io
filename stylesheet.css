@@ -9,15 +9,16 @@ body {
 	font-family: 'La Belle Aurore';
 	text-align: center;
 	font-size: 120px;
-	padding-bottom: 20px;
+	
 }
 .tagline {
 
 font-weight: 400;
-font-size: 12px;
+font-size: 20px;
 letter-spacing: 2px;
 text-align: center;
-
+padding-bottom: 20px;
+text-transform: uppercase;
 }
 .content {
 
