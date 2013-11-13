@@ -12,8 +12,14 @@ body {
 	padding-bottom: 20px;
 }
 
-.wrapper {
+.content {
 
+	width:500px;
+	font-family: 'Open Sans';
+
+}
+
+.wrapper {
 
 margin: 0 auto;
 width: 1100px; 
