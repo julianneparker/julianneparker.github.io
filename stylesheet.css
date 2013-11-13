@@ -15,18 +15,30 @@ body {
 
 font-weight: 400;
 font-size: 20px;
-letter-spacing: 2px;
+letter-spacing: 4px;
 text-align: center;
 padding-bottom: 20px;
 text-transform: uppercase;
 }
+
 .content {
 
 	width:500px;
 	font-family: 'Open Sans';
 	margin: 0 auto;
+	font-size: 15px;
 
 }
+
+.header {
+
+	font-weight: 600;
+	font-size: 16px;
+	letter-spacing: 4px;
+
+}
+
+
 
 .wrapper {
 
