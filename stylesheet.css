@@ -11,7 +11,14 @@ body {
 	font-size: 120px;
 	padding-bottom: 20px;
 }
+.tagline {
 
+font-weight: 400;
+font-size: 12px;
+letter-spacing: 2px;
+text-align: center;
+
+}
 .content {
 
 	width:500px;
