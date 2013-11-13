@@ -4,13 +4,19 @@ body {
 
 }
 
+.name {
 
+	font-family: 'La Belle Aurore';
+	text-align: center;
+	font-size: 120px;
+	padding-bottom: 20px;
+}
 
 .wrapper {
 
 
 margin: 0 auto;
-width: 500px; 
+width: 700px; 
 padding: 30px;
 max-width: 90%;
 
