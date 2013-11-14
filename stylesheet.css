@@ -1,11 +1,33 @@
 body {
 
 	font-size: 40px;
+	margin:0;
+	padding:0;
 
 }
 
+	.nav {
+		border-bottom: 1px solid #dddddd;
+		background: #a30909;
+		position:fixed;
+		width:100%;
+		z-index: 10;
+		padding-top:10px;
+		padding-bottom: 4px;
+		text-align: center;
+		font-weight: 600;
+		font-family: 'Open Sans';
+		font-size: 15px;
+		letter-spacing: 4px;
+		color: #ffffff;
+
+
+	}
+
 .name {
 
+	
+padding-top:110px;
 	font-family: 'La Belle Aurore';
 	text-align: center;
 	font-size: 120px;
@@ -14,9 +36,9 @@ body {
 .tagline {
 
 	position:absolute;
-	top:200px;
+	top:310px;
 	left:50%;
-	margin-left:-170px;
+	margin-left:-170cpx;
 
 font-weight: 400;
 font-size: 14px;
