@@ -38,7 +38,7 @@ padding-top:110px;
 	position:absolute;
 	top:310px;
 	left:50%;
-	margin-left:-170px;
+	margin-left:-10px;
 
 font-weight: 400;
 font-size: 14px;
@@ -91,9 +91,9 @@ text-transform: uppercase;
 .wrapper {
 
 margin: 0 auto;
-width: 1500px; 
+width: 1100px; 
 padding: 30px;
-max-width: 150%;
+max-width: 90%;
 
 }
 
