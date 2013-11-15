@@ -38,7 +38,7 @@ padding-top:110px;
 	position:absolute;
 	top:310px;
 	left:50%;
-	margin-left:-170cpx;
+	margin-left:-170px;
 
 font-weight: 400;
 font-size: 14px;
@@ -62,6 +62,10 @@ text-transform: uppercase;
 
 }
 
+.anchor-offset {
+	padding-top: 80px;
+}
+
 .header {
 
 	font-weight: 800;
@@ -69,11 +73,12 @@ text-transform: uppercase;
 	letter-spacing: 0px;
 	color: #a30909;
 	padding-bottom: 10px;
+		margin-top: 30px;
 
 }
-
 .about {
-	padding-bottom: 100px;
+	
+	padding-bottom: 10px;
 }
 
 .position {
@@ -86,9 +91,9 @@ text-transform: uppercase;
 .wrapper {
 
 margin: 0 auto;
-width: 1100px; 
+width: 1500px; 
 padding: 30px;
-max-width: 90%;
+max-width: 150%;
 
 }
 
